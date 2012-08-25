@@ -61,12 +61,12 @@ public final class Constants {
     /**
      *  Base URL for the manifest files for the omgb releases.
      */
-    public static final String OMGB_SCRIPT_URL = "https://raw.github.com/OMFGB/OMFGBManifests/master/omgb/";
+    public static final String OMGB_SCRIPT_URL = "https://raw.github.com/OMFGBSwift/OMFGBManifests/master/omgb/";
 
     /**
      *  Base URL for the manifest files for the addons, nightlies, and eventually the release roms.
      */
-    public static final String BASE_SCRIPT_URL = "https://raw.github.com/OMFGB/OMFGBManifests/master/";
+    public static final String BASE_SCRIPT_URL = "https://raw.github.com/OMFGBSwift/OMFGBManifests/master/";
  
     /*
      *  The associated download has been completed
